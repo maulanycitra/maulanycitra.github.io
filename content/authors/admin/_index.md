@@ -35,6 +35,7 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/mlnycitra
+    label: X (Twitter)
   - icon: brands/instagram
     url: https://www.instagram.com/mlnycitra
   - icon: brands/github
