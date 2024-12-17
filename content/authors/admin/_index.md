@@ -77,7 +77,7 @@ education:
       - Big Data
       - Nusantara Modules
 
-    - area: Islamic Boarding School - post high school
+  - area: Islamic Boarding School - post high school
     institution: Pesantren Tahfidz Arrasyid, Pare
     date_start: 2019
     date_end: 2022
