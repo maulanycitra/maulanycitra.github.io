@@ -85,28 +85,33 @@ education:
       Pursued further Islamic education after high school, focusing on Tahfidz (memorization of the Quran), Tahsin (improvement of Quranic recitation), and Tajwid (proper pronunciation of Quranic words). Gained spiritual insights, leadership insights, and ethical insights in a community-oriented Islamic environment.
   
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - position: Private Tutor
+    company_name: Genius Brain Academy
+    company_url: https://www.instagram.com/genb.academy
+    date_start: 2024-05-15
+    date_end: Present
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Teaching Mathematics, English Language, IPAS, and many more for grades 1-6 using the Kurikulum Merdeka,with a focus on making learning interactive and fun.
+  - position: Content Creator
+    company_name: Self Employed
+    date_start: 2022-12-01
+    date_end: Present
+    summary: |
+      Producing educational and practical content for platforms like Instagram including tips on learning and sustainability.
+
+projects:
+  - title: Generasi Bebas Plastik 2024
+    date: 2024-07-21
+    summary: |
+      A 2-week project focused on reducing plastic waste through education, community action, and sustainable practices.
+  - title: Basic Python Programming Module
+    date: 2023-04-01
+    summary: |
+      Developed a beginner-friendly Python programming module registered under HaKI to support foundational coding education.
+  - title: Laundry Application Proposal
+    date: 2024-02-01
+    summary: |
+      Conceptualized a user-friendly laundry management app to streamline operations and improve user experience.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -114,24 +119,21 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
-        percent: 80
+        percent: 70
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+      - name: UI/UX Design
+        percent: 80
+        icon: design-services
+      - name: Social Media Management
+        percent: 70
+        icon: brands/instagram
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Traveling
         description: ''
-        percent: 60
+        percent: 80
         icon: person-simple-walk
       - name: Cats
         description: ''
@@ -141,47 +143,49 @@ skills:
         description: ''
         percent: 80
         icon: camera
+  - name: Soft Skills
+    items:
+      - name: Public Speaking
+        percent: 85
+        icon: microphone
+      - name: Teaching & Mentoring
+        percent: 95
+        icon: chalkboard-user
+      - name: Content Creation
+        percent: 90
+        icon: pen-to-square
 
 languages:
-  - name: English
+  - name: Indonesian
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 80
+  - name: Arab
+    percent: 40
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Gold Medal in Mathematics (National Science Competition)
+    date: '2024-04-01'
+    awarder: Puskanas
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Awarded a gold medal in mathematics for excellence in problem-solving and performance in the competition.
+  - title: HaKI Certification for Python Module
+    date: '2023-04-01'
+    awarder: Intellectual Property Rights Office
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      Recognized for developing and publishing an official learning module for basic Python programming.
+  - title: Speaker at PKKMB X MASTA 2024
+    date: '2024-09-24'
+    awarder: ITESA Muhammadiyah Semarang
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Invited as a guest speaker to share experiences as a high-achieving student and promote impactful projects.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Citra is a student with a strong passion for technology and education. She developed a Python learning module that received HaKI certification in 2023. Citra is also committed to sustainability, having actively participated in the "Generasi Bebas Plastik" project, where she worked on reducing plastic waste and promoting better waste management practices.
+She participated in the Pertukaran Mahasiswa Merdeka (PMM) program, spending a semester at Universitas Mataram. This experience allowed her to explore new perspectives, collaborate on diverse projects, and develop her skills in a different academic setting. Through PMM, Citra strengthened her adaptability and deepened her commitment to learning and growth.
