@@ -53,8 +53,8 @@ interests:
 education:
   - area: Bachelor of Science in Software Engineering
     institution: Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang
-    date_start: 2022
-    date_end: 2026
+    date_start: 2022-10-01
+    date_end: 2026-01-01
     summary: |
       GPA: 3.98/4.0
 
@@ -62,8 +62,8 @@ education:
   
   - area: Student Exchange
     institution: University of Mataram
-    date_start: 2023-08
-    date_end: 2023-12
+    date_start: 2023-08-10
+    date_end: 2023-12-18
     summary: |
       Completed a semester abroad, gaining new perspectives on information systems, technology, and cross-cultural collaboration.
 
@@ -79,8 +79,8 @@ education:
 
   - area: Islamic Boarding School - post high school
     institution: Pesantren Tahfidz Arrasyid, Pare
-    date_start: 2019
-    date_end: 2022
+    date_start: 2019-06-01
+    date_end: 2022-08-01
     summary: |
       Pursued further Islamic education after high school, focusing on Tahfidz (memorization of the Quran), Tahsin (improvement of Quranic recitation), and Tajwid (proper pronunciation of Quranic words). Gained spiritual insights, leadership insights, and ethical insights in a community-oriented Islamic environment.
   
