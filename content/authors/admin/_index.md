@@ -11,7 +11,7 @@ last_name: Pandini
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🎀
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Software Engineering student
+role: Software Engineering Student | Digital Creator | Educator
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,58 +31,58 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:maulanycitra26@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/mlnycitra
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/mlnycitra
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/maulanycitra
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/maulanycitra
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Software Development
+  - Machine Learning
+  - Educational Content Creation
+  - Social Media Management
+  - Environmental Sustainability
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelor of Science in Software Engineering
+    institution: Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang
+    date_start: 2022
+    date_end: 2026
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      GPA: 3.98/4.0
+
+      Focused on software development, user experience design, and practical applications of technology in education. Published "Basic Python Programming Module", officially certified under HaKI in 2023.
+  
+  - area: Student Exchange
+    institution: University of Mataram
+    date_start: 2023-08
+    date_end: 2023-12
     summary: |
-      GPA: 3.8/4.0
+      Completed a semester abroad, gaining new perspectives on information systems, technology, and cross-cultural collaboration.
+
+      GPA: 3.56/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Information Systems
+      - Database Systems
+      - Computer Networks
+      - Human-Computer Interaction
+      - Big Data
+      - Nusantara Modules
+
+    - area: Islamic Boarding School - post high school
+    institution: Pesantren Tahfidz Arrasyid, Pare
+    date_start: 2019
+    date_end: 2022
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Pursued further Islamic education after high school, focusing on Tahfidz (memorization of the Quran), Tahsin (improvement of Quranic recitation), and Tajwid (proper pronunciation of Quranic words). Gained spiritual insights, leadership insights, and ethical insights in a community-oriented Islamic environment.
+  
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
