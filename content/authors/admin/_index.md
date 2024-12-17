@@ -89,13 +89,13 @@ work:
     company_name: Genius Brain Academy
     company_url: https://www.instagram.com/genb.academy
     date_start: 2024-05-15
-    date_end: Present
+    date_end: 'Present'
     summary: |
       Teaching Mathematics, English Language, IPAS, and many more for grades 1-6 using the Kurikulum Merdeka,with a focus on making learning interactive and fun.
   - position: Content Creator
     company_name: Self Employed
     date_start: 2022-12-01
-    date_end: Present
+    date_end: 'Present'
     summary: |
       Producing educational and practical content for platforms like Instagram including tips on learning and sustainability.
 
