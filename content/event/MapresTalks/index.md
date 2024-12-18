@@ -74,14 +74,24 @@ On Tuesday, September 24, 2024, **Mapres Talks** was held as part of the **PKKMB
 ### Event Highlights  
 
 1. **Struggles on the Path to Success**  
-   Outstanding students shared the biggest challenges they faced in achieving success. One of the speakers, **Citra**, a student who excelled academically and in community activities, shared how she managed her time and priorities despite the many challenges. She emphasized the importance of continuous growth and persistence.  
+   Outstanding students shared the biggest challenges they faced in achieving success. One of the speakers, a student who excelled academically and in community activities, shared how she managed her time and priorities despite the many challenges. They emphasized the importance of continuous growth and persistence.  
 
 2. **Message About the Importance of Consistency**  
-   One of the key takeaways came from **the second speaker**, who stressed the importance of **consistency** in achieving goals. They said:  
+   One of the key takeaways came from another speaker, who stressed the importance of **consistency** in achieving goals. They said:  
    > "Don’t be afraid to try. Start with small steps and keep doing it every day, because great achievements begin with the consistency of small actions."  
 
 3. **Motivation and Hope for New Students**  
    During the Q&A session, participants were eager to ask about overcoming procrastination and finding passion in their academic journey. The speakers emphasized that **the process of self-discovery** is a vital part of the journey, and new students should be open to learning and exploring new interests.  
+
+---
+
+### Inspiration from Outstanding Students  
+The **Mapres Talks** event at **PKKMB X MASTA 2024** was an inspiring session for new students. Outstanding students shared:  
+1. **Academic achievements**, including awards, competitions, and their journey to becoming outstanding students.  
+2. **Organizational experiences**, including their involvement in BEM, IMM, and external communities beyond campus, which provided them with significant benefits and shaped their leadership and teamwork skills.  
+3. **Memorable moments**, such as participating in the Pertukaran Mahasiswa Merdeka (PMM)** program and competing in the **ONMIPA Olympiad** outside their island, which offered them new insights, experiences, and opportunities to build broader networks by meeting many new people.  
+
+With enthusiasm and passion, the speakers encouraged participants to dream big, overcome challenges, and seize opportunities to achieve success.  
 
 ---
 
