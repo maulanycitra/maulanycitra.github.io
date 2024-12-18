@@ -21,7 +21,8 @@ doi: ''
 publishDate: '2023-12-01T00:00:00Z'
 
 # Publication type.
-publication_types: ['book']
+publication_types: 
+  - book
 
 # Publication name and optional abbreviated publication name.
 publication: 'Basic Python Programming Module'

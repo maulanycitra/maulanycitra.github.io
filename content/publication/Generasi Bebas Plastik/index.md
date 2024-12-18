@@ -11,7 +11,7 @@ publishDate: "2024-07-01T00:00:00Z"
 
 # Publication type.
 publication_types: 
-  - ["article"]
+  - article
 
 # Publication name and optional abbreviated publication name.
 publication: "Generasi Bebas Plastik Program Completion"
@@ -46,10 +46,12 @@ url_video: ''
 # 
 
 # Associated Projects (optional).
-projects: generasi-bebas-plastik
+projects: 
+  - generasi-bebas-plastik
 
 # Slides (optional).
-slides: generasi-bebas-plastik-slides
+slides: 
+  - generasi-bebas-plastik-slides
 ---
 
 The **Generasi Bebas Plastik** initiative has been successfully completed, bringing together a community dedicated to reducing plastic waste. Over two weeks, participants engaged in activities like sorting and recycling waste, creating educational content, and visiting recycling facilities to gain deeper insights into sustainable practices.  
