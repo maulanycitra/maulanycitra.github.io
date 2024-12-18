@@ -30,24 +30,6 @@ To help students achieve a strong connection with the Quran through memorization
 
 ---
 
-## Example Code (Quranic Study Notes)
-```python
-# Sample Python code for students to track their Quran memorization progress
-class QuranProgress:
-    def __init__(self, name):
-        self.name = name
-        self.memorizations = []
-
-    def add_surah(self, surah_name):
-        self.memorizations.append(surah_name)
-
-    def show_progress(self):
-        return f"{self.name} has memorized the following surahs: {', '.join(self.memorizations)}"
-
-# Example usage
-student = QuranProgress("Ahmad")
-student.add_surah("Al-Fatiha")
-student.add_surah("Al-Baqarah")
-print(student.show_progress())
+---
 
 ## Did you find this page helpful? Consider sharing it 🙌

@@ -50,13 +50,6 @@ Our lessons span a range of subjects tailored for **SD** and **SMP students**:
 - **Problem Solving**: Group work encourages students to think critically and solve problems together.
 - **Targeted for SD and SMP**: We create lessons that meet the specific needs of **elementary** and **junior high school** students.
 
-## Sample Group Activity for SD (Elementary) Students
-**Math Challenge:** Divide students into small groups and challenge them with a math problem. For example, ask them to calculate the total number of pages read in class if each student reads a different amount of pages.
-
-```python
-# Example: Calculate total pages read by the class
-pages_read = [10, 15, 20, 12]  # Pages read by individual students
-total_pages = sum(pages_read)  # Total pages read
-print(f"The total number of pages read by the class is: {total_pages}")
+---
 
 ## Did you find this page helpful? Consider sharing it 🙌

@@ -1,71 +1,59 @@
 ---
-title: "An example preprint / working paper"
+title: "Completion of Generasi Bebas Plastik: A Collaborative Effort Towards Reducing Plastic Waste"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
+- Azmi Nabila
+- Fania Dwi
+- Nur Zakiyya
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-07-01T00:00:00Z"
 
 # Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: 
+  - ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Generasi Bebas Plastik Program Completion"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: |
+  The Generasi Bebas Plastik program, held over the course of two weeks, successfully demonstrated impactful efforts in reducing plastic waste. Through collaboration, education, and actionable steps such as recycling, refusing single-use plastics, and promoting sustainable practices, the program fostered real change. The initiative focused on building long-lasting habits and raising awareness of environmental responsibility, significantly contributing to the reduction of plastic waste in daily life.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: |
+  A collaborative program to reduce plastic waste through recycling, education, and sustainable practices, achieving real impact and long-term awareness.
 
 tags:
-- Large Language Models
+- Sustainability
+- Plastic Waste Reduction
+- Generasi Bebas Plastik
 
 featured: true
 
 links:
-- name: Custom Link
+- name: Related Initiative
   url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
-  preview_only: false
+# 
 
 # Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- internal-project
+projects: generasi-bebas-plastik
 
 # Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+slides: generasi-bebas-plastik-slides
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
+The **Generasi Bebas Plastik** initiative has been successfully completed, bringing together a community dedicated to reducing plastic waste. Over two weeks, participants engaged in activities like sorting and recycling waste, creating educational content, and visiting recycling facilities to gain deeper insights into sustainable practices.  
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+This program aimed to build better waste management habits, raise public awareness, and inspire collective action to tackle the global issue of plastic waste. Notable outcomes include a reduction in the use of single-use plastics and an increase in the adoption of reusable items such as bottles, bags, and food containers.
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+The **Generasi Bebas Plastik** team remains committed to further promoting sustainable lifestyles and encouraging everyone to take small yet impactful actions in their daily lives. Together, we can make a difference in reducing environmental harm caused by plastic waste.  
