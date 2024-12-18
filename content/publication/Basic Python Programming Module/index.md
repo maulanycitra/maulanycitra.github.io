@@ -60,7 +60,7 @@ url_source: ''
 url_video: ''
 
 # Associated Projects (optional).
-projects: - python-module
+projects: python-module
 
 # Slides (optional).
 slides: "basic-python-programming-module"
