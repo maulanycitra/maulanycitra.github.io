@@ -11,7 +11,7 @@ publishDate: "2024-07-01T00:00:00Z"
 
 # Publication type.
 publication_types: 
-  - article
+  - "article"
 
 # Publication name and optional abbreviated publication name.
 publication: "Generasi Bebas Plastik Program Completion"
@@ -35,8 +35,7 @@ featured: true
 
 # Associated Projects (optional).
 projects: 
-  - id: generasi-bebas-plastik
-    title: "Generasi Bebas Plastik"
+  - generasi-bebas-plastik
 
 # Slides (optional)
 ---
