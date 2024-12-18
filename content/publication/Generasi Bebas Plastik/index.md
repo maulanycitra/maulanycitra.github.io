@@ -31,27 +31,14 @@ tags:
 
 featured: true
 
-links:
-- name: Related Initiative
-  url: http://example.org
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# 
+# link
 
 # Associated Projects (optional).
 projects: 
-  - generasi-bebas-plastik
+  - id: generasi-bebas-plastik
+    title: "Generasi Bebas Plastik"
 
-# Slides (optional).
-slides: 
-  - generasi-bebas-plastik-slides
+# Slides (optional)
 ---
 
 The **Generasi Bebas Plastik** initiative has been successfully completed, bringing together a community dedicated to reducing plastic waste. Over two weeks, participants engaged in activities like sorting and recycling waste, creating educational content, and visiting recycling facilities to gain deeper insights into sustainable practices.  
