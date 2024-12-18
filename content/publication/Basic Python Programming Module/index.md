@@ -13,10 +13,7 @@ authors:
   - M. Yanfaunnas
 
 # Author notes (optional)
-author_notes:
-  - 'python modul'
-
-
+author_notes: 'python modul'
 date: '2023-05-01T00:00:00Z'
 doi: ''
 
