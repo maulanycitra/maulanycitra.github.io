@@ -7,7 +7,7 @@ cms_exclude: true
 view: card
 
 # Optional cover image (relative to `assets/media/` folder).
-image:
+image: 
   caption: ''
   filename: ''
 ---

@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/cv citra.pdf
+        url: uploads/Maulany Citra Pandini's CV.pdf
     design:
       css_class: dark
       background:

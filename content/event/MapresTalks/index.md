@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Mapres Talks - PKKMB X MASTA 2024 ITESA MUHAMMADIYAH SEMARANG'
   focal_point: Right
 
 #links:
@@ -41,10 +41,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com/maulanycitra'
+#url_code: 'https://github.com/maulanycitra'
 url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+#url_slides: 'https://slideshare.net'
+#url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -67,7 +67,7 @@ Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
 
 ### Inspirational Stories from Mapres Talks  
-On Tuesday, September 24, 2024, **Mapres Talks** was held as part of the **PKKMB X MASTA 2024** event at Campus 2 ITESA Muhammadiyah Semarang. This event featured outstanding students (Mapres) as speakers who shared their stories about academic challenges, organizational experiences, and the achievements they have attained.  
+On Wednesday, September 25, 2024, **Mapres Talks** was held as part of the **PKKMB X MASTA 2024** event at Campus 2 ITESA Muhammadiyah Semarang. This event featured outstanding students (Mapres) as speakers who shared their stories about academic challenges, organizational experiences, and the achievements they have attained.  
 
 ---
 
@@ -89,7 +89,7 @@ On Tuesday, September 24, 2024, **Mapres Talks** was held as part of the **PKKMB
 The **Mapres Talks** event at **PKKMB X MASTA 2024** was an inspiring session for new students. Outstanding students shared:  
 1. **Academic achievements**, including awards, competitions, and their journey to becoming outstanding students.  
 2. **Organizational experiences**, including their involvement in BEM, IMM, and external communities beyond campus, which provided them with significant benefits and shaped their leadership and teamwork skills.  
-3. **Memorable moments**, such as participating in the Pertukaran Mahasiswa Merdeka (PMM)** program and competing in the **ONMIPA Olympiad** outside their island, which offered them new insights, experiences, and opportunities to build broader networks by meeting many new people.  
+3. **Memorable moments**, such as participating in the **Pertukaran Mahasiswa Merdeka (PMM)** program and competing in the **ONMIPA Olympiad** outside their island, which offered them new insights, experiences, and opportunities to build broader networks by meeting many new people.  
 
 With enthusiasm and passion, the speakers encouraged participants to dream big, overcome challenges, and seize opportunities to achieve success.  
 
