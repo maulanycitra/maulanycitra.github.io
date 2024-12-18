@@ -123,7 +123,7 @@ skills:
         icon: code-bracket
       - name: UI/UX Design
         percent: 80
-        icon: design-services
+
       - name: Social Media Management
         percent: 70
         icon: brands/instagram
@@ -150,10 +150,10 @@ skills:
         icon: microphone
       - name: Teaching & Mentoring
         percent: 95
-        icon: chalkboard-user
+
       - name: Content Creation
         percent: 90
-        icon: pen-to-square
+
 
 languages:
   - name: Indonesian

@@ -60,18 +60,9 @@ url_source: ''
 url_video: ''
 
 # Associated Projects (optional).
-projects: python-module
+projects: 
+  - python-module
 
 # Slides (optional).
 slides: "basic-python-programming-module"
----
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature that allows visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the **full text** or **supplementary notes** of the publication here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+# end 
