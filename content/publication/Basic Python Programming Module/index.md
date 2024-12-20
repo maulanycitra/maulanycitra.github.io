@@ -6,7 +6,7 @@ title: 'Basic Python Programming Module'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Nurul HUda, S.Kom., M.Kom.
+  - Nurul Huda, S.Kom., M.Kom.
   - Adi Fajar Saputra
   - Latania Zhafira
   - Davit Setyawan
