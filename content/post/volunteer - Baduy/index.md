@@ -1,7 +1,7 @@
 ---
 title: 🧠 New Volunteer for Baduy Program
 summary: has just signed up as a volunteer committee member for the **Baduy Program**, collaborating with Bakti Milenial and Paragon to support environmental conservation and cultural preservation.  
-date: 2025-1-25
+date: 2025-12-25
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
