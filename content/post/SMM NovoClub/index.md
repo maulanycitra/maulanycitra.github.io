@@ -2,7 +2,7 @@
 title: 🎉 Managing Social Media at NovoClub
 summary: Takes charge of social media content creation and community engagement for NovoClub, boosting its online presence.
 date: 2024-12-20
-date: 2025-12-20
+date: 2024-12-20
 authors:
   - Citra
 tags:
