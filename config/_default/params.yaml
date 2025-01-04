@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Maulany Citra Pandini. This work is licensed under {license}'
+    notice: '© {year} Maulany Citra Pandini.'
     license:
       enable: true
       allow_derivatives: false
