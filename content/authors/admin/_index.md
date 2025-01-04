@@ -185,7 +185,7 @@ awards:
       Invited as a guest speaker to share experiences as a high-achieving student and promote impactful projects.
 ---
 
-## About Me
+About Me
 
 Citra is a student with a strong passion for technology and education. She developed a Python learning module that received HaKI certification in 2023. Citra is also committed to sustainability, having actively participated in the "Generasi Bebas Plastik" project, where she worked on reducing plastic waste and promoting better waste management practices.
 She participated in the Pertukaran Mahasiswa Merdeka (PMM) program, spending a semester at Universitas Mataram. This experience allowed her to explore new perspectives, collaborate on diverse projects, and develop her skills in a different academic setting. Through PMM, Citra strengthened her adaptability and deepened her commitment to learning and growth.
