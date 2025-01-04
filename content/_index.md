@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: "Maulany Citra Pandini"
 date: 2024-12-16
 type: landing
 
