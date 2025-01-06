@@ -1,0 +1,12 @@
+<!-- layouts/partials/head.html -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ .Title }}</title>
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+{{ with .Params.description }}
+<meta name="description" content="{{ . }}">
+{{ end }}
+{{ range .Params.keywords }}
+<meta name="keywords" content="{{ . }}">
+{{ end }}
+{{ .Site.Params.customHead }}
