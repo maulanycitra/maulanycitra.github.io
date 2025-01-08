@@ -1,1 +1,1 @@
-Ini adalah personal blog saya.
+This is my personal blog.
