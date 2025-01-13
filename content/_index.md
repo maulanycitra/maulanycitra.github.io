@@ -16,7 +16,7 @@ sections:
       text: "Hello! I am an active university student with a passion for education, technology, and environmental sustainability. I believe in the power of collaboration to create meaningful and impactful change."
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: Maulany Citra's CV
         url: uploads/Maulany Citra Pandini's CV.pdf
         
     design:
