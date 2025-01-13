@@ -18,6 +18,9 @@ sections:
       button:
         text: Download CV
         url: uploads/Maulany Citra Pandini's CV.pdf
+      button:
+        text: Portfolio
+        url: uploads/Maulany Citra Pandini's CV.pdf
     design:
       css_class: dark
       background:
