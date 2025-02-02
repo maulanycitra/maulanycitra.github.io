@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community Project | Maulany Citra&#39;s portfolio</title>
+    <link>https://example.com/tags/community-project/</link>
+      <atom:link href="https://example.com/tags/community-project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Community Project</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_6baa9bd8930efa46.png</url>
+      <title>Community Project</title>
+      <link>https://example.com/tags/community-project/</link>
+    </image>
+    
+    <item>
+      <title>Generasi Bebas Plastik</title>
+      <link>https://example.com/project/generasi-bebas-plastik/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/generasi-bebas-plastik/</guid>
+      <description>&lt;p&gt;A community-driven project focused on reducing plastic waste by educating and engaging local communities. It involves workshops, awareness campaigns, and collaboration with local waste management systems.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

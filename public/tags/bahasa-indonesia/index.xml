@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bahasa Indonesia | Maulany Citra&#39;s portfolio</title>
+    <link>https://example.com/tags/bahasa-indonesia/</link>
+      <atom:link href="https://example.com/tags/bahasa-indonesia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bahasa Indonesia</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_6baa9bd8930efa46.png</url>
+      <title>Bahasa Indonesia</title>
+      <link>https://example.com/tags/bahasa-indonesia/</link>
+    </image>
+    
+    <item>
+      <title>Private Classes - Personalized Lessons</title>
+      <link>https://example.com/teaching/private-classes---genb/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/teaching/private-classes---genb/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Private classes provide a more tailored and individualized learning experience. Whether it&amp;rsquo;s Mathematics, IPAS (Science and Social Studies), or Bahasa Indonesia, I work closely with students to address their specific needs and challenges.&lt;/p&gt;
+&lt;h3 id=&#34;learning-approach&#34;&gt;Learning Approach&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Mathematics&lt;/strong&gt;: Focus on areas where students struggle, breaking down difficult concepts into manageable steps.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IPAS&lt;/strong&gt;: Customized projects and activities to reinforce key concepts and encourage independent learning.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bahasa Indonesia&lt;/strong&gt;: In-depth discussions and practice sessions to improve reading comprehension and writing skills.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;key-features&#34;&gt;Key Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;One-on-one lessons for focused learning&lt;/li&gt;
+&lt;li&gt;Personalized curriculum based on student needs&lt;/li&gt;
+&lt;li&gt;Flexibility in scheduling and pace&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;example-test-math-challenge&#34;&gt;Example Test (Math Challenge)&lt;/h2&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-0&#34;&gt;
+  &lt;summary class=&#34;cursor-pointer&#34;&gt;👉 Click to view the solution&lt;/summary&gt;
+  &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
+    Solve for x: 2x + 5 = 15.
+  &lt;/div&gt;
+&lt;/details&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

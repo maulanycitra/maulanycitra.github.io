@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Figma | Maulany Citra&#39;s portfolio</title>
+    <link>https://example.com/tags/figma/</link>
+      <atom:link href="https://example.com/tags/figma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Figma</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_6baa9bd8930efa46.png</url>
+      <title>Figma</title>
+      <link>https://example.com/tags/figma/</link>
+    </image>
+    
+    <item>
+      <title>Laundry Management System - UI/UX Design with Figma</title>
+      <link>https://example.com/project/uiux-laundry-app/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/uiux-laundry-app/</guid>
+      <description>&lt;p&gt;Created an intuitive and user-friendly interface for the Laundry Management System using Figma. The design focused on simplicity and easy navigation, ensuring a seamless user experience for customers managing their laundry services.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

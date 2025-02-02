@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NovoClub | Maulany Citra&#39;s portfolio</title>
+    <link>https://example.com/tags/novoclub/</link>
+      <atom:link href="https://example.com/tags/novoclub/index.xml" rel="self" type="application/rss+xml" />
+    <description>NovoClub</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_6baa9bd8930efa46.png</url>
+      <title>NovoClub</title>
+      <link>https://example.com/tags/novoclub/</link>
+    </image>
+    
+    <item>
+      <title>🎉 Managing Social Media at NovoClub</title>
+      <link>https://example.com/post/smm-novoclub/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/smm-novoclub/</guid>
+      <description>&lt;p&gt;As a dedicated social media manager for &lt;strong&gt;NovoClub&lt;/strong&gt;, Citra is responsible for developing creative content, managing interactions, and amplifying the club&amp;rsquo;s online presence. Through strategic planning, she enhances the club’s engagement with its members and builds meaningful connections within the community.&lt;/p&gt;
+&lt;h2 id=&#34;key-responsibilities&#34;&gt;Key Responsibilities&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Content Creation&lt;/strong&gt;: Curating and posting engaging content for Facebook, Instagram, and Twitter.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Community Engagement&lt;/strong&gt;: Actively interacting with members and followers, ensuring a positive and inclusive atmosphere.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Brand Partnerships&lt;/strong&gt;: Collaborating with like-minded organizations to expand the club’s reach and foster new opportunities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community Empowerment | Maulany Citra&#39;s portfolio</title>
+    <link>https://example.com/tags/community-empowerment/</link>
+      <atom:link href="https://example.com/tags/community-empowerment/index.xml" rel="self" type="application/rss+xml" />
+    <description>Community Empowerment</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_6baa9bd8930efa46.png</url>
+      <title>Community Empowerment</title>
+      <link>https://example.com/tags/community-empowerment/</link>
+    </image>
+    
+    <item>
+      <title>Pemimpin.ID Mentorship Program</title>
+      <link>https://example.com/project/pemimpin-indonesia/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/pemimpin-indonesia/</guid>
+      <description>&lt;p&gt;A mentorship program focused on empowering young leaders with the necessary skills to positively impact their communities through workshops, training sessions, and one-on-one mentorship.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

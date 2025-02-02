@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Maulany Citra&#39;s portfolio</title>
+    <link>https://example.com/project/</link>
+      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_6baa9bd8930efa46.png</url>
+      <title>Projects</title>
+      <link>https://example.com/project/</link>
+    </image>
+    
+    <item>
+      <title>Pemimpin.ID Mentorship Program</title>
+      <link>https://example.com/project/pemimpin-indonesia/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/pemimpin-indonesia/</guid>
+      <description>&lt;p&gt;A mentorship program focused on empowering young leaders with the necessary skills to positively impact their communities through workshops, training sessions, and one-on-one mentorship.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Generasi Bebas Plastik</title>
+      <link>https://example.com/project/generasi-bebas-plastik/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/generasi-bebas-plastik/</guid>
+      <description>&lt;p&gt;A community-driven project focused on reducing plastic waste by educating and engaging local communities. It involves workshops, awareness campaigns, and collaboration with local waste management systems.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Laundry Management System - UI/UX Design with Figma</title>
+      <link>https://example.com/project/uiux-laundry-app/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/uiux-laundry-app/</guid>
+      <description>&lt;p&gt;Created an intuitive and user-friendly interface for the Laundry Management System using Figma. The design focused on simplicity and easy navigation, ensuring a seamless user experience for customers managing their laundry services.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
