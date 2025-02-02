@@ -55,3 +55,9 @@ jobs:
         run: |
           echo "Pull Request Number - ${{ steps.cpr.outputs.pull-request-number }}"
           echo "Pull Request URL - ${{ steps.cpr.outputs.pull-request-url }}"
+      - name: Check if publications.bib exists
+        run: |
+          if [ ! -f "publications.bib" ]; then
+            echo "Error: publications.bib does not exist!"
+            exit 1
+          fi
