@@ -1,6 +1,6 @@
 # Maulany Citra's personal blog documentation.
 
-Welcome to the documentation for my personal blog, powered by Hugo and hosted on GitHub Pages! Here you will find a detailed guide that explains how I set up, configured, and deployed my blog. This documentation is also a part of my learning process and a showcase of my technical skills in web development.
+Welcome to the documentation my personal blog, powered by Hugo and hosted on GitHub Pages! Here you will find a detailed guide that explains how I set up, configured, and deployed my blog. This documentation is also a part of my learning process and a showcase of my technical skills in web development.
 
 ## Project Overview
 This is a personal blog created using the Hugo static site generator. It serves as a platform for sharing articles, tutorials, and personal insights. The blog is deployed on GitHub Pages, allowing anyone to view the content online.
